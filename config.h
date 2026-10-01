@@ -1,6 +1,6 @@
 /* rubya akter badhon */
 
-/* my base arch dual boot setup */
+/* my arch dual boot setup */
 /* my main ssd */
 
 /* don't forget ************* $sudo make clean install ************* */
